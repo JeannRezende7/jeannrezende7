@@ -6,5 +6,5 @@
 
 - 🔭 I’m currently working on Alterdata Technology
 - 💻 I’m currently learning Java,Delphi, Automated Tests,Agile Methods with Scrum and Kanban
-- 🔧 VSCode,Delphi 10 Postman, Git and Github.
+- 🔧 VSCode,Delphi 10,Postman, Git and Github.
 - ✨ Learning is continuous and there will always be a next level
