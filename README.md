@@ -52,18 +52,6 @@ Desenvolvedor Delphi com **mais de 3 anos de experiência** em desenvolvimento e
 - 🔄 CI/CD com Jenkins e versionamento com GitFlow
 - 📊 Metodologia Ágil (Scrum) com Jira
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeannRezende7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeannRezende7&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeannRezende7&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🏆 Conquistas & Certificações
 
 - 🎓 **Docker: Criando e Gerenciando Containers** - Alura (2024)
